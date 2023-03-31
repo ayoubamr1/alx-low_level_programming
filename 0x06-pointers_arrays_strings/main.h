@@ -10,4 +10,5 @@ char *string_toupper(char *up);
 char *cap_string(char *s);
 int check_seperators(char c);
 void print_number(int n);
+char *infinite_add(char *n1, char *n2, char *r, int size_r);
 #endif
