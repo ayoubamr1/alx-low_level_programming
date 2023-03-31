@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- * main - check the code
- *
+ * print_number - prints the given number as parameter
  * Return: Always 0.
  */
 int main(void)
