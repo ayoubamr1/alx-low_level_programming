@@ -1,6 +1,3 @@
-nes (87 sloc)  2.16 KB
- 
-
 #include "dog.h"
 #include <stdlib.h>
 
